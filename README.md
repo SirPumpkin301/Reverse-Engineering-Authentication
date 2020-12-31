@@ -8,12 +8,7 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Test](#test)
-- [Questions](#questions)
 - [License](#license)
-- [Author](#Author)
-- [Badges](#badges)
 
 ## Installation
 
